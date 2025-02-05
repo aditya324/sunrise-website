@@ -5,7 +5,7 @@ import Layout from './components/Layout'; // Import the Layout component
 
 const App = () => {
   return (
-    <div className=''>
+    <div className='bg-[#F7F4EA]'>
       <BrowserRouter>
         <Layout>
           <Routes>

@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     // Added "relative" so that absolutely positioned elements (the desktop menu) are positioned relative to the navbar.
-    <nav className="bg-color-main fixed w-full top-0 z-50 relative">
+    <nav className="bg-color-main fixed w-full top-0 z-50 relative ">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         {/* Left Section: Social Media Icons */}
         <div className="flex items-center space-x-4">
